@@ -27,4 +27,7 @@ The project was created to practice front-end web development skills. It helped 
 - I might improve the design with more advanced CSS animations.    
 
 **Acknowledgements**    
-This project was built as part of my personal learning journey to improve my skills in HTML, CSS, and JavaScript.   
+This project was built as part of my personal learning journey to improve my skills in HTML, CSS, and JavaScript. 
+
+**Live Demo**      
+Checkout the live version of the project here
