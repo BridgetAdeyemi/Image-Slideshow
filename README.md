@@ -30,4 +30,4 @@ The project was created to practice front-end web development skills. It helped 
 This project was built as part of my personal learning journey to improve my skills in HTML, CSS, and JavaScript. 
 
 **Live Demo**      
-Checkout the live version of the project here
+Checkout the live version of the project here https://bridgetadeyemi.github.io/Image-Slideshow/
